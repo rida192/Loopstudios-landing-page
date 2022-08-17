@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* font Alata && joseif */
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+
+.overlay{
+  @apply before:absolute  before:content-[""] before:inset-0 before:h-full before:w-full before:bg-black before:opacity-40 hover:before:bg-white hover:before:opacity-75 before:transition-all before:duration-300 ;
+}
+
+
+.social ul li svg path{
+  @apply transition-all duration-200
+}
+.social ul li:first-child:hover svg path{
+  fill: #3b5998 ;
+}
+.social ul li:nth-child(2):hover svg path{
+  fill: #1da1f2 ;
+}
+.social ul li:nth-child(3):hover svg path{
+  fill: #bd081c ;
+}
+.social ul li:nth-child(4):hover svg path{
+  fill: #c32aa3 ;
+}
