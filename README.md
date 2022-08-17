@@ -9,6 +9,7 @@ Thanks for checking out this front-end coding challenge.
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a good understanding of HTML and CSS and a basic understanding of JavaScript.**
+** have a look [Here !!](https://rida192.github.io/Loopstudios-landing-page/).**
 
 ## The challenge
 
